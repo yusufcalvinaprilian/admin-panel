@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
 	title: "Admin Dashboard - Toko Online",
-	description: "Admin dashboard untuk toko online fiktif",
+	description: "Admin dashboard untuk toko online Calvin",
 };
 
 export default function RootLayout({
